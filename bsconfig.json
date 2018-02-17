@@ -1,0 +1,16 @@
+{
+  "name": "reprocessing-example",
+  "sources": "src",
+  "bs-dependencies": ["reprocessing"],
+  "entries": [{
+    "backend": "bytecode",
+    "main-module": "Pulse"
+  },{
+    "backend": "native",
+    "main-module": "Pulse"
+  },{
+    "backend": "js",
+    "main-module": "Pulse"
+  }],
+  "refmt": 3
+}
