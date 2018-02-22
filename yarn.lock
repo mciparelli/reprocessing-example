@@ -24,6 +24,10 @@ bs-platform@mciparelli/bsb-native#with-fpic:
   version "2.1.1"
   resolved "https://codeload.github.com/mciparelli/bsb-native/tar.gz/68ae336d9e29cf5e4b07aa3b0267cf3f07f0ade5"
 
+bsb-js@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/bsb-js/-/bsb-js-1.0.2.tgz#b9e7af1dfdb8de6191bb36fdff43f59359a7dfe7"
+
 buffer-crc32@~0.2.3:
   version "0.2.13"
   resolved "https://registry.yarnpkg.com/buffer-crc32/-/buffer-crc32-0.2.13.tgz#0d333e3f00eac50aa1454abd30ef8c2a5d9a7242"

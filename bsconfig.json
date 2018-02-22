@@ -11,6 +11,15 @@
   },{
     "backend": "js",
     "main-module": "Pulse"
+  }, {
+    "backend": "bytecode",
+    "main-module": "SnakeHot"
+  },{
+    "backend": "native",
+    "main-module": "Snake"
+  },{
+    "backend": "js",
+    "main-module": "Snake"
   }],
   "refmt": 3
 }
