@@ -32,6 +32,12 @@
   },{
     "backend": "js",
     "main-module": "Brownian"
+  },{
+    "backend": "native",
+    "main-module": "Patterns"
+  },{
+    "backend": "js",
+    "main-module": "Patterns"
   }],
   "refmt": 3
 }
