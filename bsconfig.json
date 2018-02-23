@@ -26,6 +26,12 @@
   },{
     "backend": "js",
     "main-module": "MovingOnCurves"
+  },{
+    "backend": "native",
+    "main-module": "Brownian"
+  },{
+    "backend": "js",
+    "main-module": "Brownian"
   }],
   "refmt": 3
 }
