@@ -20,6 +20,12 @@
   },{
     "backend": "js",
     "main-module": "Snake"
+  },{
+    "backend": "native",
+    "main-module": "MovingOnCurves"
+  },{
+    "backend": "js",
+    "main-module": "MovingOnCurves"
   }],
   "refmt": 3
 }
